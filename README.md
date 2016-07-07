@@ -1,6 +1,8 @@
 # Sublime Syntax Menu
 A quick-switcher for syntaxes that lets you set a hotkey combination. Ripped the idea from Atom.
 
+![alt tag](https://dl.dropboxusercontent.com/u/90638532/syntax-menu.gif)
+
 ## Hotkey Setup
 To set up the switcher with a hotkey, add the command `open_syntax_menu` to your `Key Bindings - user` file. 
 ```json
